@@ -93,7 +93,6 @@
 }
 .description_two_columns {
   display: flex;
-  flex-direction: column;
   width: 80%;
   flex-direction: row;
   justify-content: space-between;
@@ -243,7 +242,6 @@
   text-align: center;
   margin: 90px auto 0;
   padding: 0;
-  line-height: 0;
   font-size: 60px;
   font-weight: 600;
   line-height: 1.15;
