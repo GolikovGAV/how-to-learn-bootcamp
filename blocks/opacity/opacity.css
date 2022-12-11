@@ -1,7 +1,7 @@
-.animation__opacity {
+.opacity {
   opacity: 0.5;
   transition: 0.3s linear;
 }
-.animation__opacity:hover {
+.opacity:hover {
   opacity: 1;
 }
