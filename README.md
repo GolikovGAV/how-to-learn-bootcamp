@@ -15,3 +15,5 @@
 - Анимировать различные элементы страницы;
 - Использовать flex контейнеры;
 - Работать с макетами и т.д.
+
+Сcылка на на GitHub Pages: https://golikovgav.github.io/how-to-learn-bootcamp/
